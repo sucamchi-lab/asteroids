@@ -1,5 +1,22 @@
 {
     "cSpell.ignoreWords": [
         "pygame"
+    ],
+    "cSpell.words": [
+        "asyncio",
+        "black",
+        "flake8",
+        "isort",
+        "jsonl",
+        "mypy",
+        "pip",
+        "pycache",
+        "pydoc",
+        "pygame",
+        "pyproject",
+        "pytest",
+        "pylint",
+        "venv",
+        "virtualenv"
     ]
 }
