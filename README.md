@@ -1,4 +1,3 @@
-# asteroids
 Asteroids, Rebuilt in Pygame
 ============================
 
